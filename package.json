@@ -1,0 +1,31 @@
+{
+  "name": "milkteashop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqviett/milkteashop_java.git"
+  },
+  "keywords": [
+    "milktea",
+    "milk",
+    "shop",
+    "viet",
+    "doanh",
+    "tuan"
+  ],
+  "author": "tqviett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqviett/milkteashop_java/issues"
+  },
+  "homepage": "https://github.com/tqviett/milkteashop_java#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
